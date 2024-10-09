@@ -1,5 +1,4 @@
-## Sou estudante de Análise e Desenvolvimento de Sistemas, com grande interesse em soluções tecnológicas e desenvolvimento de software. Atualmente, trabalho como estagiário de Analista de Sistemas em uma startup de consultoria de TI, onde tenho a oportunidade de aplicar meus conhecimentos na prática. Além das atividades relacionadas à análise, também desenvolvo projetos para a própria startup, utilizando tecnologias como Python, HTML, CSS, JavaScript e React.
-
+Sou estudante de Análise e Desenvolvimento de Sistemas, com grande interesse em soluções tecnológicas e desenvolvimento de software. Atualmente, trabalho como estagiário de Analista de Sistemas em uma startup de consultoria de TI, onde tenho a oportunidade de aplicar meus conhecimentos na prática. Além das atividades relacionadas à análise, também desenvolvo projetos para a própria startup, utilizando tecnologias como Python, HTML, CSS, JavaScript e React.
 Minha experiência tem me proporcionado um aprendizado constante, especialmente em relação ao desenvolvimento de interfaces interativas e soluções customizadas para os clientes. Tenho um perfil proativo e busco sempre me atualizar com as tendências do mercado e aprimorar minhas habilidades técnicas.
 
 
